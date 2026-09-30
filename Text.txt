@@ -1,0 +1,1 @@
+This is a txt file for Activity 1.3: Get Together and Learn Git
