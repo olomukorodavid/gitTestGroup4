@@ -3,3 +3,4 @@ This is line two for the sake of a second commit
 Another line of code
 One more line :)
 Initial commit part 2
+Added a second line part 2
