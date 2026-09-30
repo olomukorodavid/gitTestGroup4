@@ -2,3 +2,4 @@ This is a txt file for Activity 1.3: Get Together and Learn Git
 This is line two for the sake of a second commit
 Another line of code
 One more line :)
+Initial commit part 2
